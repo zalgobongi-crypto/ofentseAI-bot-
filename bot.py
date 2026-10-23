@@ -68,7 +68,7 @@ def show_menu():
 .ping       Test the bot
 .about      About this bot
 .clear      Clear the screen
-.exit       Stop the bot
+.exit       Stop bot
 ====================================
 """)
 
